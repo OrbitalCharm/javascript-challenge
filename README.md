@@ -1,6 +1,8 @@
 # JavaScript and DOM Manipulation
 Creates a table dynamically based upon an Alien eye-witness reports dataset. The website allows users to filter the table data for specific values. Created using pure JavaScript, HTML, and CSS, and D3.js on the web pages.
 
+visit the deployed website here:(https://orbitalcharm.github.io/javascript-challenge/UFO-level-2/index.html)
+
 ## Setup
 The following must be included in index.html:
 * Bootstrap : `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">`
